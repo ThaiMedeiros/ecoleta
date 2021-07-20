@@ -23,10 +23,10 @@
     <h2> :newspaper: Features</h2>
 </div>
 
+- [x] Itens para coletar:
+  - [x] Lê;
 - [x] Pontos de coleta:
   - [x] Cria;
-  - [x] Lê;
-- [x] Itens para coletar:
   - [x] Lê;
 
 <br />
@@ -37,11 +37,11 @@
 
 - [Expo](https://expo.io/)
 - [Git](https://git-scm.com)
-- [SQLite](https://www.sqlite.org/)
 - [NodeJs](https://nodejs.org/)
 - [Npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
-- [ReactJs](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [ReactJs](https://reactjs.org/)
+- [SQLite](https://www.sqlite.org/)
 - [VSCode](https://code.visualstudio.com/)
 
 <br />
@@ -72,10 +72,10 @@
     <tr><td>TypeScript</td></tr>
     <tr>
       <th scope="row" rowspan="4">Server</th>
-      <td>JavaScript</td>
+      <td>Express</td>
     </tr>
+    <tr><td>JavaScript</td></tr>
     <tr><td>NodeJs</td></tr>
-    <tr><td>Express</td></tr>
     <tr><td>SQLite</td></tr>
     <tr>
       <th scope="row" rowspan="3">Web</th>
