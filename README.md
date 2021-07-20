@@ -23,7 +23,7 @@
     <h2> :newspaper: Features</h2>
 </div>
 
-- [x] Pontos de coleta;
+- [x] Pontos de coleta:
   - [x] Cria;
   - [x] Lê;
 - [x] Itens para coletar:
