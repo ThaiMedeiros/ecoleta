@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="../imagens/web-ecoleta.png" alt="Web Ecoleta" title="Web Ecoleta" style="vertical-align:top; margin:6px 4px;" width="50%">
+  <img src="../imagens/server-ecoleta.png" alt="Server Ecoleta" title="Server Ecoleta" style="vertical-align:top; margin:6px 4px;" width="50%">
 </p><br />
 
-# Web Ecoleta
+# Server Ecoleta
 
-- Projeto Web do Ecoleta.
+- Projeto Server do Ecoleta.
 
 <br />
 
