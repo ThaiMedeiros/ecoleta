@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="../imagens/web-ecoleta.png" alt="Web Ecoleta" title="Web Ecoleta" style="vertical-align:top; margin:6px 4px;" width="50%">
+  <img src="../imagens/mobile-ecoleta.png" alt="Mobile Ecoleta" title="Mobile Ecoleta" style="vertical-align:top; margin:6px 4px;" width="50%">
 </p><br />
 
-# Web Ecoleta
+# Mobile Ecoleta
 
-- Projeto Web do Ecoleta.
+- Projeto Mobile do Ecoleta.
 
 <br />
 
