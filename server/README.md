@@ -21,3 +21,7 @@
 ```bash
 Em Breve...
 ```
+
+---
+
+Desenvolvido por: :copyright: Thaiza Medeiros :woman_technologist: :purple_heart:
